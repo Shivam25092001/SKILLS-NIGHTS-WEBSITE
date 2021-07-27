@@ -6,6 +6,7 @@ import Event from './components/eventsPopup'
 import Archives from './components/archives'
 import Projects from './components/projects'
 import ParticleEffect from './components/particleeffect';
+import Scene from './components/threejs';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Archives />
       <Projects />
       <ParticleEffect />
+      <Scene/>
     </div>
   );
 }
