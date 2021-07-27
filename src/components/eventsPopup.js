@@ -1,11 +1,11 @@
 import React from 'react'
 
-export default function Projects() {
+export default function Event() {
     return (
         <div>
             <br />
             <br />
-            Projects page will show all the info about our past projects....
+            This Events page would be called up whenever we will host a new event in our college
             <hr />
         </div>
     )
