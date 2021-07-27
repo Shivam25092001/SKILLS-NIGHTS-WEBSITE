@@ -1,14 +1,60 @@
-### installation of project dependencies:
+# Skills Nights Website
+> react based webapp for club introduction and community interaction
+
+## Table of Contents
+
+1. [Installation](#installation)
+2. [Contributing](#contributing)
+
+## Installation 
+
+From within the root directory:
+
+```
 - npm install
 - npm install react-particles-js
 - npm i tsparticles
 - npm install three
+```
 
-### starting the web-app:
+### Starting the web-app:
+
+From within the root directory:
+
+```
 - npm start
+```
 
 
-Using GitHub Desktop to PUSH to your local content to GitHub.
+## Contributing
+
+> __use git commands or simply use github desktop app__
+
+
+### Pulling files to your local storagr using git bash
+> create a local file in your pc and git bash in same directory
+- git clone _forked repository http here_
+> (#now you have all the project files on your pc)
+
+### to get local files synced
+From within the root directory:
+
+```
+- git pull
+```
+
+### commit changes
+From within the root directory:
+
+```
+- git add .
+- git commit -m "_your commit message here_"
+- git push origin master
+```
+### pull request for merging to main repository using github
+
+
+### Using GitHub Desktop to PUSH to your local content to GitHub.
 GitHub Desktop is available to download for any operating system, and it gives the GUI(Graphical User Interface) platform to push your local content from your local repository to a remote repository like GitHub.
 
 You need to open your GitHub account in your browser and the process of creating a new repository, i.e., step 1 is the same as mentioned above in "Using Command line to PUSH to GitHub".
