@@ -8,10 +8,10 @@
 - npm start
 
 
-Using GitHub Desktop to PUSH to your local content to GitHub.
+### Using GitHub Desktop to PUSH to your local content to GitHub.
 GitHub Desktop is available to download for any operating system, and it gives the GUI(Graphical User Interface) platform to push your local content from your local repository to a remote repository like GitHub.
 
-You need to open your GitHub account in your browser and the process of creating a new repository, i.e., step 1 is the same as mentioned above in "Using Command line to PUSH to GitHub".
+### You need to open your GitHub account in your browser and the process of creating a new repository, i.e., step 1 is the same as mentioned above in "Using Command line to PUSH to GitHub".
 
 1. Click "Set up in a Desktop".
 
@@ -36,7 +36,7 @@ You can click on "Publish Branch" to publish your all local content to GitHub.
 You can view your repository in GitHub after you have completed all steps.
 
 
-PULL Request through GitHub Desktop
+### PULL Request through GitHub Desktop
 The file "imp" contains a typo where MNALO is the owner and Olivia is collaborator follows the following process to create a PULL request from GitHub Desktop.
 
 1. Cloning and Opening to Desktop.
