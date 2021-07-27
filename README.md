@@ -33,7 +33,9 @@ From within the root directory:
 
 ### Pulling files to your local storagr using git bash
 > create a local file in your pc and git bash in same directory
+```
 - git clone _forked repository http here_
+```
 > (#now you have all the project files on your pc)
 
 ### to get local files synced
