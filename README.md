@@ -36,7 +36,7 @@ From within the root directory:
 ```
 - git clone _forked repository http here_
 ```
-> (#now you have all the project files on your pc)
+ (#now you have all the project files on your pc)
 
 ### to get local files synced
 From within the root directory:
@@ -53,7 +53,7 @@ From within the root directory:
 - git commit -m "_your commit message here_"
 - git push origin master
 ```
-### pull request for merging to main repository using github
+> pull request for merging to main repository using github
 
 
 ### Using GitHub Desktop to PUSH to your local content to GitHub.
