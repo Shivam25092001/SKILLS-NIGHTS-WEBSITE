@@ -16,7 +16,7 @@ From within the root directory:
 - npm i tsparticles
 - npm install three
 ```
-
+ambuj raj
 ### Starting the web-app:
 
 From within the root directory:
