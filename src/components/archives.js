@@ -1,12 +1,3 @@
-import React from 'react'
-
-export default function Archives() {
-    return (
-        <div>
-            <br />
-            <br />
-            this archives page will keep all the records of our past events .
-            <hr />
-        </div>
-    )
-}
+document.writeln("Name : Srishti Pandey");
+document.writeln("Email : bt20cse068@iiitn.ac.in");
+document.writeln("Task : Archives");
