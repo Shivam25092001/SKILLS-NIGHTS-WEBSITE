@@ -5,7 +5,6 @@ export default function Navbar() {
         <div>
             <center>This is the navbar
                 <hr />
-                <h1>Skills Nights</h1>
             </center>
         </div>
     )

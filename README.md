@@ -14,9 +14,10 @@ From within the root directory:
 - npm install
 - npm install react-particles-js
 - npm i tsparticles
-- npm install three
+- npm install three @react-three/fiber @react-three/drei
+- npm install lerp
 ```
-ambuj raj
+
 ### Starting the web-app:
 
 From within the root directory:
