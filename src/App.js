@@ -8,13 +8,16 @@ import Projects from './components/projects'
 import ParticleEffect from './components/particleeffect';
 import Scene from './components/threejs';
 import MainThree from './components/mainThree/mainthree';
+import Aboutus from './components/aboutus';
 
 function App() {
   return (
     <>
+      
+      <Aboutus />
+      {/* <Main />
       <Navbar />
       <MainThree />
-      {/* <Main />
       <Loader />
       <Event />
       <Projects />
